@@ -15,6 +15,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/akhilpalla/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/akhilpalla/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhilpalla/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/akhilpalla/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/akhilpalla/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/akhilpalla/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Greedy
@@ -36,6 +37,7 @@
 | [2906-construct-product-matrix](https://github.com/akhilpalla/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/akhilpalla/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/akhilpalla/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/akhilpalla/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/akhilpalla/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/akhilpalla/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
@@ -98,6 +100,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/akhilpalla/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/akhilpalla/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/akhilpalla/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/akhilpalla/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +161,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/akhilpalla/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/akhilpalla/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->
