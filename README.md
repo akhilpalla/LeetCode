@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
+| [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akhilpalla/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akhilpalla/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/akhilpalla/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -96,6 +97,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
+| [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [0635-design-log-storage-system](https://github.com/akhilpalla/LeetCode/tree/main/0635-design-log-storage-system/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akhilpalla/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -177,6 +179,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [0642-design-search-autocomplete-system](https://github.com/akhilpalla/LeetCode/tree/main/0642-design-search-autocomplete-system/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -211,4 +214,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2751-robot-collisions](https://github.com/akhilpalla/LeetCode/tree/main/2751-robot-collisions/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 <!---LeetCode Topics End-->
