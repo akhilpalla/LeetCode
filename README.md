@@ -28,6 +28,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/akhilpalla/LeetCode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/akhilpalla/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/akhilpalla/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akhilpalla/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akhilpalla/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/akhilpalla/LeetCode/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/akhilpalla/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akhilpalla/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
