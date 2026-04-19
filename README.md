@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/akhilpalla/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0334-increasing-triplet-subsequence](https://github.com/akhilpalla/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [0605-can-place-flowers](https://github.com/akhilpalla/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
@@ -42,6 +43,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/akhilpalla/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/akhilpalla/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akhilpalla/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/akhilpalla/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
