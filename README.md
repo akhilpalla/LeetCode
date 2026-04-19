@@ -7,6 +7,7 @@
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [0755-pour-water](https://github.com/akhilpalla/LeetCode/tree/main/0755-pour-water/) | Medium |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/akhilpalla/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akhilpalla/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akhilpalla/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/akhilpalla/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
