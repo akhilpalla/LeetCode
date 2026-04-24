@@ -96,6 +96,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/akhilpalla/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/akhilpalla/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/akhilpalla/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2833-furthest-point-from-origin](https://github.com/akhilpalla/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/akhilpalla/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akhilpalla/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/akhilpalla/LeetCode/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
@@ -289,6 +290,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/akhilpalla/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/akhilpalla/LeetCode/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
