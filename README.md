@@ -11,6 +11,7 @@
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [0605-can-place-flowers](https://github.com/akhilpalla/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0755-pour-water](https://github.com/akhilpalla/LeetCode/tree/main/0755-pour-water/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akhilpalla/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akhilpalla/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -62,6 +63,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akhilpalla/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akhilpalla/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -199,6 +201,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/akhilpalla/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/akhilpalla/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -248,6 +251,7 @@
 | ------- | ------- |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [0642-design-search-autocomplete-system](https://github.com/akhilpalla/LeetCode/tree/main/0642-design-search-autocomplete-system/) | Hard |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/akhilpalla/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Trie
@@ -298,6 +302,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
