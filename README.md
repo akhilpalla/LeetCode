@@ -216,6 +216,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/akhilpalla/LeetCode/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/akhilpalla/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -329,4 +330,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/akhilpalla/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1059-all-paths-from-source-lead-to-destination](https://github.com/akhilpalla/LeetCode/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 <!---LeetCode Topics End-->
