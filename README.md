@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/akhilpalla/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/akhilpalla/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0281-zigzag-iterator](https://github.com/akhilpalla/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/akhilpalla/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -67,6 +68,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/akhilpalla/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akhilpalla/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -229,6 +231,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/akhilpalla/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/akhilpalla/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akhilpalla/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1622-fancy-sequence](https://github.com/akhilpalla/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
