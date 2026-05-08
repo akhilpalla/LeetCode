@@ -176,6 +176,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0489-robot-room-cleaner](https://github.com/akhilpalla/LeetCode/tree/main/0489-robot-room-cleaner/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/akhilpalla/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Design
@@ -364,4 +365,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akhilpalla/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0489-robot-room-cleaner](https://github.com/akhilpalla/LeetCode/tree/main/0489-robot-room-cleaner/) | Hard |
 <!---LeetCode Topics End-->
