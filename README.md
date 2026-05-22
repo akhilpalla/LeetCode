@@ -17,6 +17,7 @@
 | [0605-can-place-flowers](https://github.com/akhilpalla/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0755-pour-water](https://github.com/akhilpalla/LeetCode/tree/main/0755-pour-water/) | Medium |
 | [0759-employee-free-time](https://github.com/akhilpalla/LeetCode/tree/main/0759-employee-free-time/) | Hard |
+| [1064-fixed-point](https://github.com/akhilpalla/LeetCode/tree/main/1064-fixed-point/) | Easy |
 | [1306-jump-game-iii](https://github.com/akhilpalla/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -240,6 +241,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/akhilpalla/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akhilpalla/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akhilpalla/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [1064-fixed-point](https://github.com/akhilpalla/LeetCode/tree/main/1064-fixed-point/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akhilpalla/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/akhilpalla/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhilpalla/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
