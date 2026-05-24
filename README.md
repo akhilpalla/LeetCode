@@ -410,4 +410,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0489-robot-room-cleaner](https://github.com/akhilpalla/LeetCode/tree/main/0489-robot-room-cleaner/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3564-seasonal-sales-analysis](https://github.com/akhilpalla/LeetCode/tree/main/3564-seasonal-sales-analysis/) | Medium |
 <!---LeetCode Topics End-->
