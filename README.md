@@ -57,6 +57,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akhilpalla/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/akhilpalla/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/akhilpalla/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3161-block-placement-queries](https://github.com/akhilpalla/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/akhilpalla/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/akhilpalla/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/akhilpalla/LeetCode/tree/main/3256-maximum-value-sum-by-placing-three-rooks-i/) | Hard |
@@ -269,6 +270,7 @@
 | [1064-fixed-point](https://github.com/akhilpalla/LeetCode/tree/main/1064-fixed-point/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akhilpalla/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/akhilpalla/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
+| [3161-block-placement-queries](https://github.com/akhilpalla/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhilpalla/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/akhilpalla/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/akhilpalla/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -318,6 +320,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/akhilpalla/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
+| [3161-block-placement-queries](https://github.com/akhilpalla/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -459,4 +462,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1586-binary-search-tree-iterator-ii](https://github.com/akhilpalla/LeetCode/tree/main/1586-binary-search-tree-iterator-ii/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/akhilpalla/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
