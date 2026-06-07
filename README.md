@@ -43,6 +43,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/akhilpalla/LeetCode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/akhilpalla/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akhilpalla/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/akhilpalla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/akhilpalla/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/akhilpalla/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/akhilpalla/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -216,6 +217,7 @@
 | [1345-jump-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/akhilpalla/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/akhilpalla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/akhilpalla/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/akhilpalla/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/akhilpalla/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -422,6 +424,7 @@
 | ------- | ------- |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [1586-binary-search-tree-iterator-ii](https://github.com/akhilpalla/LeetCode/tree/main/1586-binary-search-tree-iterator-ii/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/akhilpalla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/akhilpalla/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -483,6 +486,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1586-binary-search-tree-iterator-ii](https://github.com/akhilpalla/LeetCode/tree/main/1586-binary-search-tree-iterator-ii/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/akhilpalla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
