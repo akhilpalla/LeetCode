@@ -240,6 +240,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/akhilpalla/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [0635-design-log-storage-system](https://github.com/akhilpalla/LeetCode/tree/main/0635-design-log-storage-system/) | Medium |
@@ -277,6 +278,7 @@
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akhilpalla/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0281-zigzag-iterator](https://github.com/akhilpalla/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/akhilpalla/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
 | [0635-design-log-storage-system](https://github.com/akhilpalla/LeetCode/tree/main/0635-design-log-storage-system/) | Medium |
 | [0642-design-search-autocomplete-system](https://github.com/akhilpalla/LeetCode/tree/main/0642-design-search-autocomplete-system/) | Hard |
@@ -286,6 +288,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/akhilpalla/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0635-design-log-storage-system](https://github.com/akhilpalla/LeetCode/tree/main/0635-design-log-storage-system/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -320,6 +323,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/akhilpalla/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akhilpalla/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akhilpalla/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/akhilpalla/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [1064-fixed-point](https://github.com/akhilpalla/LeetCode/tree/main/1064-fixed-point/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akhilpalla/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/akhilpalla/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -334,6 +338,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/akhilpalla/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/akhilpalla/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -434,6 +439,7 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/akhilpalla/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0642-design-search-autocomplete-system](https://github.com/akhilpalla/LeetCode/tree/main/0642-design-search-autocomplete-system/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
