@@ -10,6 +10,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akhilpalla/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/akhilpalla/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0281-zigzag-iterator](https://github.com/akhilpalla/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
+| [0288-unique-word-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/akhilpalla/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
 | [0396-rotate-function](https://github.com/akhilpalla/LeetCode/tree/main/0396-rotate-function/) | Medium |
@@ -151,6 +152,7 @@
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/akhilpalla/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akhilpalla/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0288-unique-word-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/akhilpalla/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/akhilpalla/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0635-design-log-storage-system](https://github.com/akhilpalla/LeetCode/tree/main/0635-design-log-storage-system/) | Medium |
@@ -244,6 +246,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0288-unique-word-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/akhilpalla/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
@@ -284,6 +287,7 @@
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akhilpalla/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0281-zigzag-iterator](https://github.com/akhilpalla/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
+| [0288-unique-word-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/akhilpalla/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
 | [0635-design-log-storage-system](https://github.com/akhilpalla/LeetCode/tree/main/0635-design-log-storage-system/) | Medium |
