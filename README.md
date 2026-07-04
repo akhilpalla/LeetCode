@@ -357,12 +357,14 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/akhilpalla/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akhilpalla/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/akhilpalla/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/akhilpalla/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/akhilpalla/LeetCode/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akhilpalla/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/akhilpalla/LeetCode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/akhilpalla/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -446,6 +448,7 @@
 | [1490-clone-n-ary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1490-clone-n-ary-tree/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/akhilpalla/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akhilpalla/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/akhilpalla/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akhilpalla/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/akhilpalla/LeetCode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -531,6 +534,7 @@
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/akhilpalla/LeetCode/tree/main/1485-clone-binary-tree-with-random-pointer/) | Medium |
 | [1490-clone-n-ary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1490-clone-n-ary-tree/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akhilpalla/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akhilpalla/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Counting
