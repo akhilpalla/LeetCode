@@ -20,6 +20,7 @@
 | [0755-pour-water](https://github.com/akhilpalla/LeetCode/tree/main/0755-pour-water/) | Medium |
 | [0759-employee-free-time](https://github.com/akhilpalla/LeetCode/tree/main/0759-employee-free-time/) | Hard |
 | [1064-fixed-point](https://github.com/akhilpalla/LeetCode/tree/main/1064-fixed-point/) | Easy |
+| [1301-number-of-paths-with-max-score](https://github.com/akhilpalla/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/akhilpalla/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/akhilpalla/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
@@ -126,6 +127,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/akhilpalla/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0723-candy-crush](https://github.com/akhilpalla/LeetCode/tree/main/0723-candy-crush/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/akhilpalla/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akhilpalla/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -216,6 +218,7 @@
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/akhilpalla/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [1259-handshakes-that-dont-cross](https://github.com/akhilpalla/LeetCode/tree/main/1259-handshakes-that-dont-cross/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/akhilpalla/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/akhilpalla/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/akhilpalla/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/akhilpalla/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
