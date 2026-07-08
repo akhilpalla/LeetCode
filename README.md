@@ -159,6 +159,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/akhilpalla/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akhilpalla/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0288-unique-word-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
+| [0291-word-pattern-ii](https://github.com/akhilpalla/LeetCode/tree/main/0291-word-pattern-ii/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/akhilpalla/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/akhilpalla/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0635-design-log-storage-system](https://github.com/akhilpalla/LeetCode/tree/main/0635-design-log-storage-system/) | Medium |
@@ -256,6 +257,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0288-unique-word-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
+| [0291-word-pattern-ii](https://github.com/akhilpalla/LeetCode/tree/main/0291-word-pattern-ii/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/akhilpalla/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
@@ -288,6 +290,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0291-word-pattern-ii](https://github.com/akhilpalla/LeetCode/tree/main/0291-word-pattern-ii/) | Medium |
 | [0489-robot-room-cleaner](https://github.com/akhilpalla/LeetCode/tree/main/0489-robot-room-cleaner/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/akhilpalla/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
