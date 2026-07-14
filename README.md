@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/akhilpalla/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/akhilpalla/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0137-single-number-ii](https://github.com/akhilpalla/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akhilpalla/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akhilpalla/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/akhilpalla/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -349,6 +350,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/akhilpalla/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/akhilpalla/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/akhilpalla/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/akhilpalla/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
