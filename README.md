@@ -194,6 +194,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/akhilpalla/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/akhilpalla/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/akhilpalla/LeetCode/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
+| [3320-count-the-number-of-winning-sequences](https://github.com/akhilpalla/LeetCode/tree/main/3320-count-the-number-of-winning-sequences/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/akhilpalla/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/akhilpalla/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/akhilpalla/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -238,6 +239,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/akhilpalla/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/akhilpalla/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/akhilpalla/LeetCode/tree/main/3256-maximum-value-sum-by-placing-three-rooks-i/) | Hard |
+| [3320-count-the-number-of-winning-sequences](https://github.com/akhilpalla/LeetCode/tree/main/3320-count-the-number-of-winning-sequences/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/akhilpalla/LeetCode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/akhilpalla/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akhilpalla/LeetCode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
