@@ -167,6 +167,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/akhilpalla/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0288-unique-word-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
 | [0291-word-pattern-ii](https://github.com/akhilpalla/LeetCode/tree/main/0291-word-pattern-ii/) | Medium |
+| [0320-generalized-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0320-generalized-abbreviation/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/akhilpalla/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/akhilpalla/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0635-design-log-storage-system](https://github.com/akhilpalla/LeetCode/tree/main/0635-design-log-storage-system/) | Medium |
@@ -305,6 +306,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0291-word-pattern-ii](https://github.com/akhilpalla/LeetCode/tree/main/0291-word-pattern-ii/) | Medium |
+| [0320-generalized-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0320-generalized-abbreviation/) | Medium |
 | [0489-robot-room-cleaner](https://github.com/akhilpalla/LeetCode/tree/main/0489-robot-room-cleaner/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/akhilpalla/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -351,6 +353,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/akhilpalla/LeetCode/tree/main/0137-single-number-ii/) | Medium |
+| [0320-generalized-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0320-generalized-abbreviation/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/akhilpalla/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/akhilpalla/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/akhilpalla/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
