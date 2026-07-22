@@ -19,6 +19,7 @@
 | [0605-can-place-flowers](https://github.com/akhilpalla/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0723-candy-crush](https://github.com/akhilpalla/LeetCode/tree/main/0723-candy-crush/) | Medium |
 | [0755-pour-water](https://github.com/akhilpalla/LeetCode/tree/main/0755-pour-water/) | Medium |
+| [0758-bold-words-in-string](https://github.com/akhilpalla/LeetCode/tree/main/0758-bold-words-in-string/) | Medium |
 | [0759-employee-free-time](https://github.com/akhilpalla/LeetCode/tree/main/0759-employee-free-time/) | Hard |
 | [1064-fixed-point](https://github.com/akhilpalla/LeetCode/tree/main/1064-fixed-point/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/akhilpalla/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -178,6 +179,7 @@
 | [0635-design-log-storage-system](https://github.com/akhilpalla/LeetCode/tree/main/0635-design-log-storage-system/) | Medium |
 | [0642-design-search-autocomplete-system](https://github.com/akhilpalla/LeetCode/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/akhilpalla/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0758-bold-words-in-string](https://github.com/akhilpalla/LeetCode/tree/main/0758-bold-words-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/akhilpalla/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akhilpalla/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akhilpalla/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -284,6 +286,7 @@
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [0635-design-log-storage-system](https://github.com/akhilpalla/LeetCode/tree/main/0635-design-log-storage-system/) | Medium |
+| [0758-bold-words-in-string](https://github.com/akhilpalla/LeetCode/tree/main/0758-bold-words-in-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/akhilpalla/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/akhilpalla/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
@@ -515,6 +518,7 @@
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/akhilpalla/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0642-design-search-autocomplete-system](https://github.com/akhilpalla/LeetCode/tree/main/0642-design-search-autocomplete-system/) | Hard |
+| [0758-bold-words-in-string](https://github.com/akhilpalla/LeetCode/tree/main/0758-bold-words-in-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/akhilpalla/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/akhilpalla/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Data Stream
@@ -567,6 +571,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0758-bold-words-in-string](https://github.com/akhilpalla/LeetCode/tree/main/0758-bold-words-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/akhilpalla/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/akhilpalla/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Stack
