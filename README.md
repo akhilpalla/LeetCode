@@ -24,6 +24,7 @@
 | [0758-bold-words-in-string](https://github.com/akhilpalla/LeetCode/tree/main/0758-bold-words-in-string/) | Medium |
 | [0759-employee-free-time](https://github.com/akhilpalla/LeetCode/tree/main/0759-employee-free-time/) | Hard |
 | [1064-fixed-point](https://github.com/akhilpalla/LeetCode/tree/main/1064-fixed-point/) | Easy |
+| [1199-minimum-time-to-build-blocks](https://github.com/akhilpalla/LeetCode/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/akhilpalla/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/akhilpalla/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/akhilpalla/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -124,6 +125,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/akhilpalla/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/akhilpalla/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akhilpalla/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1199-minimum-time-to-build-blocks](https://github.com/akhilpalla/LeetCode/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akhilpalla/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akhilpalla/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/akhilpalla/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -448,6 +450,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilpalla/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1056-confusing-number](https://github.com/akhilpalla/LeetCode/tree/main/1056-confusing-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akhilpalla/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1199-minimum-time-to-build-blocks](https://github.com/akhilpalla/LeetCode/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1259-handshakes-that-dont-cross](https://github.com/akhilpalla/LeetCode/tree/main/1259-handshakes-that-dont-cross/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/akhilpalla/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/akhilpalla/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
@@ -482,6 +485,7 @@
 | ------- | ------- |
 | [0642-design-search-autocomplete-system](https://github.com/akhilpalla/LeetCode/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [0759-employee-free-time](https://github.com/akhilpalla/LeetCode/tree/main/0759-employee-free-time/) | Hard |
+| [1199-minimum-time-to-build-blocks](https://github.com/akhilpalla/LeetCode/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilpalla/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
