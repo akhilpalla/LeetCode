@@ -23,6 +23,7 @@
 | [0755-pour-water](https://github.com/akhilpalla/LeetCode/tree/main/0755-pour-water/) | Medium |
 | [0758-bold-words-in-string](https://github.com/akhilpalla/LeetCode/tree/main/0758-bold-words-in-string/) | Medium |
 | [0759-employee-free-time](https://github.com/akhilpalla/LeetCode/tree/main/0759-employee-free-time/) | Hard |
+| [0877-stone-game](https://github.com/akhilpalla/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1064-fixed-point](https://github.com/akhilpalla/LeetCode/tree/main/1064-fixed-point/) | Easy |
 | [1199-minimum-time-to-build-blocks](https://github.com/akhilpalla/LeetCode/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/akhilpalla/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -256,6 +257,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/akhilpalla/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0877-stone-game](https://github.com/akhilpalla/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1259-handshakes-that-dont-cross](https://github.com/akhilpalla/LeetCode/tree/main/1259-handshakes-that-dont-cross/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/akhilpalla/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/akhilpalla/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -448,6 +450,7 @@
 | [0048-rotate-image](https://github.com/akhilpalla/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/akhilpalla/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilpalla/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/akhilpalla/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1056-confusing-number](https://github.com/akhilpalla/LeetCode/tree/main/1056-confusing-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akhilpalla/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1199-minimum-time-to-build-blocks](https://github.com/akhilpalla/LeetCode/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
@@ -737,4 +740,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akhilpalla/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/akhilpalla/LeetCode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
