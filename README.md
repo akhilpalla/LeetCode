@@ -13,6 +13,7 @@
 | [0238-product-of-array-except-self](https://github.com/akhilpalla/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0281-zigzag-iterator](https://github.com/akhilpalla/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
 | [0288-unique-word-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
+| [0308-range-sum-query-2d-mutable](https://github.com/akhilpalla/LeetCode/tree/main/0308-range-sum-query-2d-mutable/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/akhilpalla/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
 | [0396-rotate-function](https://github.com/akhilpalla/LeetCode/tree/main/0396-rotate-function/) | Medium |
@@ -158,6 +159,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/akhilpalla/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/akhilpalla/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0308-range-sum-query-2d-mutable](https://github.com/akhilpalla/LeetCode/tree/main/0308-range-sum-query-2d-mutable/) | Medium |
 | [0723-candy-crush](https://github.com/akhilpalla/LeetCode/tree/main/0723-candy-crush/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/akhilpalla/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -370,6 +372,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/akhilpalla/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0281-zigzag-iterator](https://github.com/akhilpalla/LeetCode/tree/main/0281-zigzag-iterator/) | Medium |
 | [0288-unique-word-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
+| [0308-range-sum-query-2d-mutable](https://github.com/akhilpalla/LeetCode/tree/main/0308-range-sum-query-2d-mutable/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/akhilpalla/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
 | [0635-design-log-storage-system](https://github.com/akhilpalla/LeetCode/tree/main/0635-design-log-storage-system/) | Medium |
@@ -525,6 +528,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0308-range-sum-query-2d-mutable](https://github.com/akhilpalla/LeetCode/tree/main/0308-range-sum-query-2d-mutable/) | Medium |
 | [1622-fancy-sequence](https://github.com/akhilpalla/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [3161-block-placement-queries](https://github.com/akhilpalla/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/akhilpalla/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -752,6 +756,7 @@
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0308-range-sum-query-2d-mutable](https://github.com/akhilpalla/LeetCode/tree/main/0308-range-sum-query-2d-mutable/) | Medium |
 | [3161-block-placement-queries](https://github.com/akhilpalla/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -809,4 +814,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0308-range-sum-query-2d-mutable](https://github.com/akhilpalla/LeetCode/tree/main/0308-range-sum-query-2d-mutable/) | Medium |
 <!---LeetCode Topics End-->
