@@ -278,6 +278,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0351-android-unlock-patterns](https://github.com/akhilpalla/LeetCode/tree/main/0351-android-unlock-patterns/) | Medium |
 | [0396-rotate-function](https://github.com/akhilpalla/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0877-stone-game](https://github.com/akhilpalla/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/akhilpalla/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
@@ -374,6 +375,7 @@
 | ------- | ------- |
 | [0291-word-pattern-ii](https://github.com/akhilpalla/LeetCode/tree/main/0291-word-pattern-ii/) | Medium |
 | [0320-generalized-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0320-generalized-abbreviation/) | Medium |
+| [0351-android-unlock-patterns](https://github.com/akhilpalla/LeetCode/tree/main/0351-android-unlock-patterns/) | Medium |
 | [0489-robot-room-cleaner](https://github.com/akhilpalla/LeetCode/tree/main/0489-robot-room-cleaner/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/akhilpalla/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -425,6 +427,7 @@
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/akhilpalla/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0320-generalized-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0320-generalized-abbreviation/) | Medium |
+| [0351-android-unlock-patterns](https://github.com/akhilpalla/LeetCode/tree/main/0351-android-unlock-patterns/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/akhilpalla/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/akhilpalla/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/akhilpalla/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -845,4 +848,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0308-range-sum-query-2d-mutable](https://github.com/akhilpalla/LeetCode/tree/main/0308-range-sum-query-2d-mutable/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0351-android-unlock-patterns](https://github.com/akhilpalla/LeetCode/tree/main/0351-android-unlock-patterns/) | Medium |
 <!---LeetCode Topics End-->
