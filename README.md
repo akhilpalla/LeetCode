@@ -222,6 +222,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/akhilpalla/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/akhilpalla/LeetCode/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [1858-longest-word-with-all-prefixes](https://github.com/akhilpalla/LeetCode/tree/main/1858-longest-word-with-all-prefixes/) | Medium |
 | [1871-jump-game-vii](https://github.com/akhilpalla/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/akhilpalla/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -348,6 +349,7 @@
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/akhilpalla/LeetCode/tree/main/1485-clone-binary-tree-with-random-pointer/) | Medium |
 | [1490-clone-n-ary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1490-clone-n-ary-tree/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/akhilpalla/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/akhilpalla/LeetCode/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akhilpalla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/akhilpalla/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -510,6 +512,7 @@
 | [1510-stone-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/akhilpalla/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1622-fancy-sequence](https://github.com/akhilpalla/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/akhilpalla/LeetCode/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [1840-maximum-building-height](https://github.com/akhilpalla/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1927-sum-game](https://github.com/akhilpalla/LeetCode/tree/main/1927-sum-game/) | Medium |
@@ -719,6 +722,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/akhilpalla/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/akhilpalla/LeetCode/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [2029-stone-game-ix](https://github.com/akhilpalla/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/akhilpalla/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akhilpalla/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -807,6 +811,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/akhilpalla/LeetCode/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akhilpalla/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/akhilpalla/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akhilpalla/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -860,4 +865,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0351-android-unlock-patterns](https://github.com/akhilpalla/LeetCode/tree/main/0351-android-unlock-patterns/) | Medium |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/akhilpalla/LeetCode/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 <!---LeetCode Topics End-->
