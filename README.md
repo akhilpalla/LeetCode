@@ -213,6 +213,7 @@
 | [0657-robot-return-to-origin](https://github.com/akhilpalla/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0758-bold-words-in-string](https://github.com/akhilpalla/LeetCode/tree/main/0758-bold-words-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/akhilpalla/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [0800-similar-rgb-color](https://github.com/akhilpalla/LeetCode/tree/main/0800-similar-rgb-color/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akhilpalla/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akhilpalla/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/akhilpalla/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -506,6 +507,7 @@
 | [0048-rotate-image](https://github.com/akhilpalla/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/akhilpalla/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilpalla/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0800-similar-rgb-color](https://github.com/akhilpalla/LeetCode/tree/main/0800-similar-rgb-color/) | Easy |
 | [0877-stone-game](https://github.com/akhilpalla/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1056-confusing-number](https://github.com/akhilpalla/LeetCode/tree/main/1056-confusing-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akhilpalla/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -662,6 +664,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0800-similar-rgb-color](https://github.com/akhilpalla/LeetCode/tree/main/0800-similar-rgb-color/) | Easy |
 | [1291-sequential-digits](https://github.com/akhilpalla/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akhilpalla/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/akhilpalla/LeetCode/tree/main/3256-maximum-value-sum-by-placing-three-rooks-i/) | Hard |
