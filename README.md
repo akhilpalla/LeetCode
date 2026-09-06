@@ -34,6 +34,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/akhilpalla/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/akhilpalla/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/akhilpalla/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/akhilpalla/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/akhilpalla/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/akhilpalla/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -300,6 +301,7 @@
 | [1259-handshakes-that-dont-cross](https://github.com/akhilpalla/LeetCode/tree/main/1259-handshakes-that-dont-cross/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/akhilpalla/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/akhilpalla/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1335-minimum-difficulty-of-a-job-schedule](https://github.com/akhilpalla/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/akhilpalla/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1510-stone-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/akhilpalla/LeetCode/tree/main/1563-stone-game-v/) | Hard |
