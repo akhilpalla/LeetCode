@@ -519,6 +519,7 @@
 | [0396-rotate-function](https://github.com/akhilpalla/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilpalla/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0800-similar-rgb-color](https://github.com/akhilpalla/LeetCode/tree/main/0800-similar-rgb-color/) | Easy |
+| [0829-consecutive-numbers-sum](https://github.com/akhilpalla/LeetCode/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [0877-stone-game](https://github.com/akhilpalla/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1056-confusing-number](https://github.com/akhilpalla/LeetCode/tree/main/1056-confusing-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akhilpalla/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -678,6 +679,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0800-similar-rgb-color](https://github.com/akhilpalla/LeetCode/tree/main/0800-similar-rgb-color/) | Easy |
+| [0829-consecutive-numbers-sum](https://github.com/akhilpalla/LeetCode/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [1291-sequential-digits](https://github.com/akhilpalla/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akhilpalla/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/akhilpalla/LeetCode/tree/main/3256-maximum-value-sum-by-placing-three-rooks-i/) | Hard |
