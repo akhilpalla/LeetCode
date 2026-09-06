@@ -626,6 +626,7 @@
 | [0642-design-search-autocomplete-system](https://github.com/akhilpalla/LeetCode/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [1257-smallest-common-region](https://github.com/akhilpalla/LeetCode/tree/main/1257-smallest-common-region/) | Medium |
 | [1306-jump-game-iii](https://github.com/akhilpalla/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/akhilpalla/LeetCode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/akhilpalla/LeetCode/tree/main/1485-clone-binary-tree-with-random-pointer/) | Medium |
 | [1490-clone-n-ary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1490-clone-n-ary-tree/) | Medium |
@@ -719,6 +720,7 @@
 | ------- | ------- |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [1257-smallest-common-region](https://github.com/akhilpalla/LeetCode/tree/main/1257-smallest-common-region/) | Medium |
+| [1376-time-needed-to-inform-all-employees](https://github.com/akhilpalla/LeetCode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/akhilpalla/LeetCode/tree/main/1485-clone-binary-tree-with-random-pointer/) | Medium |
 | [1490-clone-n-ary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1490-clone-n-ary-tree/) | Medium |
 | [1586-binary-search-tree-iterator-ii](https://github.com/akhilpalla/LeetCode/tree/main/1586-binary-search-tree-iterator-ii/) | Medium |
@@ -733,6 +735,7 @@
 | [1257-smallest-common-region](https://github.com/akhilpalla/LeetCode/tree/main/1257-smallest-common-region/) | Medium |
 | [1306-jump-game-iii](https://github.com/akhilpalla/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
+| [1376-time-needed-to-inform-all-employees](https://github.com/akhilpalla/LeetCode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/akhilpalla/LeetCode/tree/main/1485-clone-binary-tree-with-random-pointer/) | Medium |
 | [1490-clone-n-ary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1490-clone-n-ary-tree/) | Medium |
