@@ -311,6 +311,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/akhilpalla/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/akhilpalla/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/akhilpalla/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/akhilpalla/LeetCode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/akhilpalla/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/akhilpalla/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/akhilpalla/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
@@ -506,6 +507,7 @@
 | ------- | ------- |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/akhilpalla/LeetCode/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akhilpalla/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/akhilpalla/LeetCode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/akhilpalla/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akhilpalla/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -640,6 +642,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/akhilpalla/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1858-longest-word-with-all-prefixes](https://github.com/akhilpalla/LeetCode/tree/main/1858-longest-word-with-all-prefixes/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akhilpalla/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/akhilpalla/LeetCode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/akhilpalla/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [3310-remove-methods-from-project](https://github.com/akhilpalla/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akhilpalla/LeetCode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
@@ -748,6 +751,7 @@
 | [1490-clone-n-ary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1490-clone-n-ary-tree/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akhilpalla/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/akhilpalla/LeetCode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/akhilpalla/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akhilpalla/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
