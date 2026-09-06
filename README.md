@@ -150,6 +150,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akhilpalla/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akhilpalla/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/akhilpalla/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/akhilpalla/LeetCode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/akhilpalla/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akhilpalla/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1927-sum-game](https://github.com/akhilpalla/LeetCode/tree/main/1927-sum-game/) | Medium |
@@ -472,6 +473,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/akhilpalla/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/akhilpalla/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1064-fixed-point](https://github.com/akhilpalla/LeetCode/tree/main/1064-fixed-point/) | Easy |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/akhilpalla/LeetCode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akhilpalla/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/akhilpalla/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akhilpalla/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -532,6 +534,7 @@
 | [1510-stone-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/akhilpalla/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1622-fancy-sequence](https://github.com/akhilpalla/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/akhilpalla/LeetCode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/akhilpalla/LeetCode/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [1840-maximum-building-height](https://github.com/akhilpalla/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
