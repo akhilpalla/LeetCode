@@ -222,6 +222,7 @@
 | [0758-bold-words-in-string](https://github.com/akhilpalla/LeetCode/tree/main/0758-bold-words-in-string/) | Medium |
 | [0796-rotate-string](https://github.com/akhilpalla/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0800-similar-rgb-color](https://github.com/akhilpalla/LeetCode/tree/main/0800-similar-rgb-color/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/akhilpalla/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akhilpalla/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akhilpalla/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/akhilpalla/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -298,6 +299,7 @@
 | [0351-android-unlock-patterns](https://github.com/akhilpalla/LeetCode/tree/main/0351-android-unlock-patterns/) | Medium |
 | [0396-rotate-function](https://github.com/akhilpalla/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0877-stone-game](https://github.com/akhilpalla/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/akhilpalla/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1140-stone-game-ii](https://github.com/akhilpalla/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1259-handshakes-that-dont-cross](https://github.com/akhilpalla/LeetCode/tree/main/1259-handshakes-that-dont-cross/) | Hard |
 | [1301-number-of-paths-with-max-score](https://github.com/akhilpalla/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
