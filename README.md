@@ -27,6 +27,7 @@
 | [0759-employee-free-time](https://github.com/akhilpalla/LeetCode/tree/main/0759-employee-free-time/) | Hard |
 | [0877-stone-game](https://github.com/akhilpalla/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1064-fixed-point](https://github.com/akhilpalla/LeetCode/tree/main/1064-fixed-point/) | Easy |
+| [1086-high-five](https://github.com/akhilpalla/LeetCode/tree/main/1086-high-five/) | Easy |
 | [1140-stone-game-ii](https://github.com/akhilpalla/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1199-minimum-time-to-build-blocks](https://github.com/akhilpalla/LeetCode/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1257-smallest-common-region](https://github.com/akhilpalla/LeetCode/tree/main/1257-smallest-common-region/) | Medium |
@@ -357,6 +358,7 @@
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [0635-design-log-storage-system](https://github.com/akhilpalla/LeetCode/tree/main/0635-design-log-storage-system/) | Medium |
 | [0758-bold-words-in-string](https://github.com/akhilpalla/LeetCode/tree/main/0758-bold-words-in-string/) | Medium |
+| [1086-high-five](https://github.com/akhilpalla/LeetCode/tree/main/1086-high-five/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/akhilpalla/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1257-smallest-common-region](https://github.com/akhilpalla/LeetCode/tree/main/1257-smallest-common-region/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/akhilpalla/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -579,6 +581,7 @@
 | ------- | ------- |
 | [0642-design-search-autocomplete-system](https://github.com/akhilpalla/LeetCode/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [0759-employee-free-time](https://github.com/akhilpalla/LeetCode/tree/main/0759-employee-free-time/) | Hard |
+| [1086-high-five](https://github.com/akhilpalla/LeetCode/tree/main/1086-high-five/) | Easy |
 | [1199-minimum-time-to-build-blocks](https://github.com/akhilpalla/LeetCode/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilpalla/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -602,6 +605,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilpalla/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0642-design-search-autocomplete-system](https://github.com/akhilpalla/LeetCode/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [0759-employee-free-time](https://github.com/akhilpalla/LeetCode/tree/main/0759-employee-free-time/) | Hard |
+| [1086-high-five](https://github.com/akhilpalla/LeetCode/tree/main/1086-high-five/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/akhilpalla/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/akhilpalla/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/akhilpalla/LeetCode/tree/main/1340-jump-game-v/) | Hard |
