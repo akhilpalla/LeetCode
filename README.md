@@ -105,6 +105,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/akhilpalla/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/akhilpalla/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akhilpalla/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/akhilpalla/LeetCode/tree/main/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/akhilpalla/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/akhilpalla/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/akhilpalla/LeetCode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -260,6 +261,7 @@
 | [3320-count-the-number-of-winning-sequences](https://github.com/akhilpalla/LeetCode/tree/main/3320-count-the-number-of-winning-sequences/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akhilpalla/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/akhilpalla/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/akhilpalla/LeetCode/tree/main/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/akhilpalla/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/akhilpalla/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akhilpalla/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -663,6 +665,7 @@
 | [1858-longest-word-with-all-prefixes](https://github.com/akhilpalla/LeetCode/tree/main/1858-longest-word-with-all-prefixes/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/akhilpalla/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/akhilpalla/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/akhilpalla/LeetCode/tree/main/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
