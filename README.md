@@ -40,6 +40,7 @@
 | [1345-jump-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/akhilpalla/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1426-counting-elements](https://github.com/akhilpalla/LeetCode/tree/main/1426-counting-elements/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/akhilpalla/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilpalla/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akhilpalla/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -367,6 +368,7 @@
 | [1345-jump-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akhilpalla/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/akhilpalla/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1426-counting-elements](https://github.com/akhilpalla/LeetCode/tree/main/1426-counting-elements/) | Easy |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/akhilpalla/LeetCode/tree/main/1485-clone-binary-tree-with-random-pointer/) | Medium |
 | [1490-clone-n-ary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1490-clone-n-ary-tree/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/akhilpalla/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
