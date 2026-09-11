@@ -829,6 +829,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2362-generate-the-invoice](https://github.com/akhilpalla/LeetCode/tree/main/2362-generate-the-invoice/) | Hard |
 | [3564-seasonal-sales-analysis](https://github.com/akhilpalla/LeetCode/tree/main/3564-seasonal-sales-analysis/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
