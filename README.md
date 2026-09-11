@@ -106,6 +106,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/akhilpalla/LeetCode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/akhilpalla/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akhilpalla/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/akhilpalla/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3485-longest-common-prefix-of-k-strings-after-removal](https://github.com/akhilpalla/LeetCode/tree/main/3485-longest-common-prefix-of-k-strings-after-removal/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/akhilpalla/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/akhilpalla/LeetCode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -277,6 +278,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/akhilpalla/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,6 +391,7 @@
 | [3138-minimum-length-of-anagram-concatenation](https://github.com/akhilpalla/LeetCode/tree/main/3138-minimum-length-of-anagram-concatenation/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/akhilpalla/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/akhilpalla/LeetCode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/akhilpalla/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/akhilpalla/LeetCode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/akhilpalla/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/akhilpalla/LeetCode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -705,6 +708,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akhilpalla/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/akhilpalla/LeetCode/tree/main/3256-maximum-value-sum-by-placing-three-rooks-i/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akhilpalla/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/akhilpalla/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/akhilpalla/LeetCode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akhilpalla/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/akhilpalla/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
