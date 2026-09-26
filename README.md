@@ -58,6 +58,7 @@
 | [1732-find-the-highest-altitude](https://github.com/akhilpalla/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/akhilpalla/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1762-buildings-with-an-ocean-view](https://github.com/akhilpalla/LeetCode/tree/main/1762-buildings-with-an-ocean-view/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhilpalla/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/akhilpalla/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/akhilpalla/LeetCode/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/akhilpalla/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -251,6 +252,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/akhilpalla/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhilpalla/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/akhilpalla/LeetCode/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [1858-longest-word-with-all-prefixes](https://github.com/akhilpalla/LeetCode/tree/main/1858-longest-word-with-all-prefixes/) | Medium |
 | [1871-jump-game-vii](https://github.com/akhilpalla/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
@@ -400,6 +402,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akhilpalla/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akhilpalla/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/akhilpalla/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhilpalla/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/akhilpalla/LeetCode/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akhilpalla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
