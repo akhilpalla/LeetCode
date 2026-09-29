@@ -245,6 +245,7 @@
 | [1096-brace-expansion-ii](https://github.com/akhilpalla/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/akhilpalla/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhilpalla/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1236-web-crawler](https://github.com/akhilpalla/LeetCode/tree/main/1236-web-crawler/) | Medium |
 | [1257-smallest-common-region](https://github.com/akhilpalla/LeetCode/tree/main/1257-smallest-common-region/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/akhilpalla/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akhilpalla/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -694,6 +695,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/akhilpalla/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [0642-design-search-autocomplete-system](https://github.com/akhilpalla/LeetCode/tree/main/0642-design-search-autocomplete-system/) | Hard |
+| [1236-web-crawler](https://github.com/akhilpalla/LeetCode/tree/main/1236-web-crawler/) | Medium |
 | [1257-smallest-common-region](https://github.com/akhilpalla/LeetCode/tree/main/1257-smallest-common-region/) | Medium |
 | [1306-jump-game-iii](https://github.com/akhilpalla/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/akhilpalla/LeetCode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
@@ -814,6 +816,7 @@
 | ------- | ------- |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/akhilpalla/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1236-web-crawler](https://github.com/akhilpalla/LeetCode/tree/main/1236-web-crawler/) | Medium |
 | [1257-smallest-common-region](https://github.com/akhilpalla/LeetCode/tree/main/1257-smallest-common-region/) | Medium |
 | [1306-jump-game-iii](https://github.com/akhilpalla/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
@@ -882,6 +885,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0489-robot-room-cleaner](https://github.com/akhilpalla/LeetCode/tree/main/0489-robot-room-cleaner/) | Hard |
+| [1236-web-crawler](https://github.com/akhilpalla/LeetCode/tree/main/1236-web-crawler/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
