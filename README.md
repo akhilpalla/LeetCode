@@ -79,6 +79,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akhilpalla/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akhilpalla/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akhilpalla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2361-minimum-costs-using-the-train-line](https://github.com/akhilpalla/LeetCode/tree/main/2361-minimum-costs-using-the-train-line/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/akhilpalla/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/akhilpalla/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/akhilpalla/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -341,6 +342,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/akhilpalla/LeetCode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/akhilpalla/LeetCode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/akhilpalla/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2361-minimum-costs-using-the-train-line](https://github.com/akhilpalla/LeetCode/tree/main/2361-minimum-costs-using-the-train-line/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akhilpalla/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/akhilpalla/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/akhilpalla/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
