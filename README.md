@@ -299,6 +299,7 @@
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akhilpalla/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akhilpalla/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/akhilpalla/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/akhilpalla/LeetCode/tree/main/3846-total-distance-to-type-a-string-using-one-finger/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -444,6 +445,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/akhilpalla/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/akhilpalla/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/akhilpalla/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/akhilpalla/LeetCode/tree/main/3846-total-distance-to-type-a-string-using-one-finger/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
