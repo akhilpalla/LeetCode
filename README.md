@@ -17,6 +17,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/akhilpalla/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
 | [0396-rotate-function](https://github.com/akhilpalla/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0469-convex-polygon](https://github.com/akhilpalla/LeetCode/tree/main/0469-convex-polygon/) | Medium |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [0605-can-place-flowers](https://github.com/akhilpalla/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilpalla/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -582,6 +583,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/akhilpalla/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/akhilpalla/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0469-convex-polygon](https://github.com/akhilpalla/LeetCode/tree/main/0469-convex-polygon/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilpalla/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0800-similar-rgb-color](https://github.com/akhilpalla/LeetCode/tree/main/0800-similar-rgb-color/) | Easy |
 | [0829-consecutive-numbers-sum](https://github.com/akhilpalla/LeetCode/tree/main/0829-consecutive-numbers-sum/) | Hard |
@@ -871,6 +873,7 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0469-convex-polygon](https://github.com/akhilpalla/LeetCode/tree/main/0469-convex-polygon/) | Medium |
 | [0836-rectangle-overlap](https://github.com/akhilpalla/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/akhilpalla/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/akhilpalla/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -1011,4 +1014,8 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akhilpalla/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akhilpalla/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhilpalla/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0469-convex-polygon](https://github.com/akhilpalla/LeetCode/tree/main/0469-convex-polygon/) | Medium |
 <!---LeetCode Topics End-->
