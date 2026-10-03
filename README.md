@@ -137,6 +137,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/akhilpalla/LeetCode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/akhilpalla/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/akhilpalla/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3676-count-bowl-subarrays](https://github.com/akhilpalla/LeetCode/tree/main/3676-count-bowl-subarrays/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/akhilpalla/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/akhilpalla/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/akhilpalla/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -806,6 +807,7 @@
 | [1762-buildings-with-an-ocean-view](https://github.com/akhilpalla/LeetCode/tree/main/1762-buildings-with-an-ocean-view/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhilpalla/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/akhilpalla/LeetCode/tree/main/2751-robot-collisions/) | Hard |
+| [3676-count-bowl-subarrays](https://github.com/akhilpalla/LeetCode/tree/main/3676-count-bowl-subarrays/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -948,6 +950,7 @@
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/akhilpalla/LeetCode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1762-buildings-with-an-ocean-view](https://github.com/akhilpalla/LeetCode/tree/main/1762-buildings-with-an-ocean-view/) | Medium |
+| [3676-count-bowl-subarrays](https://github.com/akhilpalla/LeetCode/tree/main/3676-count-bowl-subarrays/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
