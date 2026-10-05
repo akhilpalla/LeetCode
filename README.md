@@ -80,6 +80,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/akhilpalla/LeetCode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akhilpalla/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akhilpalla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/akhilpalla/LeetCode/tree/main/2212-maximum-points-in-an-archery-competition/) | Medium |
 | [2361-minimum-costs-using-the-train-line](https://github.com/akhilpalla/LeetCode/tree/main/2361-minimum-costs-using-the-train-line/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/akhilpalla/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/akhilpalla/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -458,6 +459,7 @@
 | [1096-brace-expansion-ii](https://github.com/akhilpalla/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/akhilpalla/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/akhilpalla/LeetCode/tree/main/2212-maximum-points-in-an-archery-competition/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akhilpalla/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -515,6 +517,7 @@
 | [0751-ip-to-cidr](https://github.com/akhilpalla/LeetCode/tree/main/0751-ip-to-cidr/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/akhilpalla/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/akhilpalla/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/akhilpalla/LeetCode/tree/main/2212-maximum-points-in-an-archery-competition/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/akhilpalla/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/akhilpalla/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akhilpalla/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -768,6 +771,7 @@
 | [0800-similar-rgb-color](https://github.com/akhilpalla/LeetCode/tree/main/0800-similar-rgb-color/) | Easy |
 | [0829-consecutive-numbers-sum](https://github.com/akhilpalla/LeetCode/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [1291-sequential-digits](https://github.com/akhilpalla/LeetCode/tree/main/1291-sequential-digits/) | Medium |
+| [2212-maximum-points-in-an-archery-competition](https://github.com/akhilpalla/LeetCode/tree/main/2212-maximum-points-in-an-archery-competition/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akhilpalla/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/akhilpalla/LeetCode/tree/main/3256-maximum-value-sum-by-placing-three-rooks-i/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akhilpalla/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
