@@ -235,6 +235,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/akhilpalla/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0288-unique-word-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0288-unique-word-abbreviation/) | Medium |
 | [0291-word-pattern-ii](https://github.com/akhilpalla/LeetCode/tree/main/0291-word-pattern-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/akhilpalla/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0320-generalized-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0320-generalized-abbreviation/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/akhilpalla/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/akhilpalla/LeetCode/tree/main/0443-string-compression/) | Medium |
@@ -453,6 +454,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0291-word-pattern-ii](https://github.com/akhilpalla/LeetCode/tree/main/0291-word-pattern-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/akhilpalla/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0320-generalized-abbreviation](https://github.com/akhilpalla/LeetCode/tree/main/0320-generalized-abbreviation/) | Medium |
 | [0351-android-unlock-patterns](https://github.com/akhilpalla/LeetCode/tree/main/0351-android-unlock-patterns/) | Medium |
 | [0489-robot-room-cleaner](https://github.com/akhilpalla/LeetCode/tree/main/0489-robot-room-cleaner/) | Hard |
@@ -835,6 +837,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/akhilpalla/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/akhilpalla/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1236-web-crawler](https://github.com/akhilpalla/LeetCode/tree/main/1236-web-crawler/) | Medium |
