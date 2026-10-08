@@ -573,6 +573,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1059-all-paths-from-source-lead-to-destination](https://github.com/akhilpalla/LeetCode/tree/main/1059-all-paths-from-source-lead-to-destination/) | Medium |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/akhilpalla/LeetCode/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akhilpalla/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/akhilpalla/LeetCode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -655,6 +656,7 @@
 | [1199-minimum-time-to-build-blocks](https://github.com/akhilpalla/LeetCode/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilpalla/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/akhilpalla/LeetCode/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhilpalla/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/akhilpalla/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -951,6 +953,7 @@
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/akhilpalla/LeetCode/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/akhilpalla/LeetCode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Combinatorics
@@ -1031,4 +1034,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0469-convex-polygon](https://github.com/akhilpalla/LeetCode/tree/main/0469-convex-polygon/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/akhilpalla/LeetCode/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 <!---LeetCode Topics End-->
