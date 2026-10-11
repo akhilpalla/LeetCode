@@ -93,6 +93,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/akhilpalla/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2751-robot-collisions](https://github.com/akhilpalla/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/akhilpalla/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akhilpalla/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/akhilpalla/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/akhilpalla/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/akhilpalla/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
@@ -784,6 +785,7 @@
 | [0829-consecutive-numbers-sum](https://github.com/akhilpalla/LeetCode/tree/main/0829-consecutive-numbers-sum/) | Hard |
 | [1291-sequential-digits](https://github.com/akhilpalla/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [2212-maximum-points-in-an-archery-competition](https://github.com/akhilpalla/LeetCode/tree/main/2212-maximum-points-in-an-archery-competition/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akhilpalla/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akhilpalla/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/akhilpalla/LeetCode/tree/main/3256-maximum-value-sum-by-placing-three-rooks-i/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akhilpalla/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
