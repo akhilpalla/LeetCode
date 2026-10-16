@@ -1,6 +1,4 @@
 MOD = 1_000_000_007
-
-
 class SegmentTreeNode:
     def __init__(self, lo, hi) -> None:
         self.lo = lo
