@@ -323,6 +323,7 @@
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/akhilpalla/LeetCode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/akhilpalla/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3846-total-distance-to-type-a-string-using-one-finger](https://github.com/akhilpalla/LeetCode/tree/main/3846-total-distance-to-type-a-string-using-one-finger/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/akhilpalla/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
