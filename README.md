@@ -658,6 +658,7 @@
 | [1259-handshakes-that-dont-cross](https://github.com/akhilpalla/LeetCode/tree/main/1259-handshakes-that-dont-cross/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/akhilpalla/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/akhilpalla/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1492-the-kth-factor-of-n](https://github.com/akhilpalla/LeetCode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1510-stone-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/akhilpalla/LeetCode/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akhilpalla/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -982,6 +983,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/akhilpalla/LeetCode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/akhilpalla/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/akhilpalla/LeetCode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/akhilpalla/LeetCode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -1129,4 +1131,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/akhilpalla/LeetCode/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/akhilpalla/LeetCode/tree/main/1492-the-kth-factor-of-n/) | Medium |
 <!---LeetCode Topics End-->
