@@ -20,6 +20,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/akhilpalla/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0465-optimal-account-balancing](https://github.com/akhilpalla/LeetCode/tree/main/0465-optimal-account-balancing/) | Hard |
 | [0469-convex-polygon](https://github.com/akhilpalla/LeetCode/tree/main/0469-convex-polygon/) | Medium |
+| [0531-lonely-pixel-i](https://github.com/akhilpalla/LeetCode/tree/main/0531-lonely-pixel-i/) | Medium |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [0605-can-place-flowers](https://github.com/akhilpalla/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilpalla/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -221,6 +222,7 @@
 | [0048-rotate-image](https://github.com/akhilpalla/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/akhilpalla/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0308-range-sum-query-2d-mutable](https://github.com/akhilpalla/LeetCode/tree/main/0308-range-sum-query-2d-mutable/) | Medium |
+| [0531-lonely-pixel-i](https://github.com/akhilpalla/LeetCode/tree/main/0531-lonely-pixel-i/) | Medium |
 | [0723-candy-crush](https://github.com/akhilpalla/LeetCode/tree/main/0723-candy-crush/) | Medium |
 | [0835-image-overlap](https://github.com/akhilpalla/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/akhilpalla/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -436,6 +438,7 @@
 | [0291-word-pattern-ii](https://github.com/akhilpalla/LeetCode/tree/main/0291-word-pattern-ii/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/akhilpalla/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
+| [0531-lonely-pixel-i](https://github.com/akhilpalla/LeetCode/tree/main/0531-lonely-pixel-i/) | Medium |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [0635-design-log-storage-system](https://github.com/akhilpalla/LeetCode/tree/main/0635-design-log-storage-system/) | Medium |
 | [0666-path-sum-iv](https://github.com/akhilpalla/LeetCode/tree/main/0666-path-sum-iv/) | Medium |
