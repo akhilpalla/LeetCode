@@ -17,6 +17,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/akhilpalla/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0379-design-phone-directory](https://github.com/akhilpalla/LeetCode/tree/main/0379-design-phone-directory/) | Medium |
 | [0396-rotate-function](https://github.com/akhilpalla/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/akhilpalla/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0465-optimal-account-balancing](https://github.com/akhilpalla/LeetCode/tree/main/0465-optimal-account-balancing/) | Hard |
 | [0469-convex-polygon](https://github.com/akhilpalla/LeetCode/tree/main/0469-convex-polygon/) | Medium |
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
@@ -640,6 +641,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/akhilpalla/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/akhilpalla/LeetCode/tree/main/0396-rotate-function/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/akhilpalla/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0469-convex-polygon](https://github.com/akhilpalla/LeetCode/tree/main/0469-convex-polygon/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/akhilpalla/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0800-similar-rgb-color](https://github.com/akhilpalla/LeetCode/tree/main/0800-similar-rgb-color/) | Easy |
