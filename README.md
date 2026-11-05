@@ -45,6 +45,7 @@
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/akhilpalla/LeetCode/tree/main/1335-minimum-difficulty-of-a-job-schedule/) | Hard |
 | [1340-jump-game-v](https://github.com/akhilpalla/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akhilpalla/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/akhilpalla/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1426-counting-elements](https://github.com/akhilpalla/LeetCode/tree/main/1426-counting-elements/) | Easy |
@@ -592,6 +593,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/akhilpalla/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/akhilpalla/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1064-fixed-point](https://github.com/akhilpalla/LeetCode/tree/main/1064-fixed-point/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akhilpalla/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akhilpalla/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akhilpalla/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/akhilpalla/LeetCode/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
@@ -757,6 +759,7 @@
 | [1288-remove-covered-intervals](https://github.com/akhilpalla/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/akhilpalla/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/akhilpalla/LeetCode/tree/main/1340-jump-game-v/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akhilpalla/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilpalla/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akhilpalla/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/akhilpalla/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -837,6 +840,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/akhilpalla/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/akhilpalla/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0723-candy-crush](https://github.com/akhilpalla/LeetCode/tree/main/0723-candy-crush/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akhilpalla/LeetCode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/akhilpalla/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/akhilpalla/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/akhilpalla/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
