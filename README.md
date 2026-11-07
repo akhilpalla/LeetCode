@@ -76,6 +76,7 @@
 | [1858-longest-word-with-all-prefixes](https://github.com/akhilpalla/LeetCode/tree/main/1858-longest-word-with-all-prefixes/) | Medium |
 | [1861-rotating-the-box](https://github.com/akhilpalla/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/akhilpalla/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/akhilpalla/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akhilpalla/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -729,6 +730,7 @@
 | [1199-minimum-time-to-build-blocks](https://github.com/akhilpalla/LeetCode/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akhilpalla/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/akhilpalla/LeetCode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2093-minimum-cost-to-reach-city-with-discounts](https://github.com/akhilpalla/LeetCode/tree/main/2093-minimum-cost-to-reach-city-with-discounts/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhilpalla/LeetCode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
