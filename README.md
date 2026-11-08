@@ -38,6 +38,7 @@
 | [1140-stone-game-ii](https://github.com/akhilpalla/LeetCode/tree/main/1140-stone-game-ii/) | Medium |
 | [1199-minimum-time-to-build-blocks](https://github.com/akhilpalla/LeetCode/tree/main/1199-minimum-time-to-build-blocks/) | Hard |
 | [1257-smallest-common-region](https://github.com/akhilpalla/LeetCode/tree/main/1257-smallest-common-region/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/akhilpalla/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/akhilpalla/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/akhilpalla/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/akhilpalla/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -231,6 +232,7 @@
 | [0531-lonely-pixel-i](https://github.com/akhilpalla/LeetCode/tree/main/0531-lonely-pixel-i/) | Medium |
 | [0723-candy-crush](https://github.com/akhilpalla/LeetCode/tree/main/0723-candy-crush/) | Medium |
 | [0835-image-overlap](https://github.com/akhilpalla/LeetCode/tree/main/0835-image-overlap/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/akhilpalla/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/akhilpalla/LeetCode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akhilpalla/LeetCode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -624,6 +626,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/akhilpalla/LeetCode/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [1267-count-servers-that-communicate](https://github.com/akhilpalla/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akhilpalla/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -806,6 +809,7 @@
 | [0666-path-sum-iv](https://github.com/akhilpalla/LeetCode/tree/main/0666-path-sum-iv/) | Medium |
 | [1236-web-crawler](https://github.com/akhilpalla/LeetCode/tree/main/1236-web-crawler/) | Medium |
 | [1257-smallest-common-region](https://github.com/akhilpalla/LeetCode/tree/main/1257-smallest-common-region/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/akhilpalla/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/akhilpalla/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1376-time-needed-to-inform-all-employees](https://github.com/akhilpalla/LeetCode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -944,6 +948,7 @@
 | [1096-brace-expansion-ii](https://github.com/akhilpalla/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1236-web-crawler](https://github.com/akhilpalla/LeetCode/tree/main/1236-web-crawler/) | Medium |
 | [1257-smallest-common-region](https://github.com/akhilpalla/LeetCode/tree/main/1257-smallest-common-region/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/akhilpalla/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/akhilpalla/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/akhilpalla/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1376-time-needed-to-inform-all-employees](https://github.com/akhilpalla/LeetCode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
@@ -962,6 +967,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/akhilpalla/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/akhilpalla/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/akhilpalla/LeetCode/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [2029-stone-game-ix](https://github.com/akhilpalla/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/akhilpalla/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
