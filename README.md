@@ -315,6 +315,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akhilpalla/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/akhilpalla/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2296-design-a-text-editor](https://github.com/akhilpalla/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 | [2409-count-days-spent-together](https://github.com/akhilpalla/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/akhilpalla/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akhilpalla/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -367,6 +368,7 @@
 | [2069-walking-robot-simulation-ii](https://github.com/akhilpalla/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/akhilpalla/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akhilpalla/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2296-design-a-text-editor](https://github.com/akhilpalla/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/akhilpalla/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/akhilpalla/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akhilpalla/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -542,6 +544,7 @@
 | [1586-binary-search-tree-iterator-ii](https://github.com/akhilpalla/LeetCode/tree/main/1586-binary-search-tree-iterator-ii/) | Medium |
 | [1622-fancy-sequence](https://github.com/akhilpalla/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/akhilpalla/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+| [2296-design-a-text-editor](https://github.com/akhilpalla/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -905,6 +908,7 @@
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akhilpalla/LeetCode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/akhilpalla/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhilpalla/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2296-design-a-text-editor](https://github.com/akhilpalla/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -933,6 +937,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhilpalla/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1762-buildings-with-an-ocean-view](https://github.com/akhilpalla/LeetCode/tree/main/1762-buildings-with-an-ocean-view/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhilpalla/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2296-design-a-text-editor](https://github.com/akhilpalla/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 | [2751-robot-collisions](https://github.com/akhilpalla/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [3676-count-bowl-subarrays](https://github.com/akhilpalla/LeetCode/tree/main/3676-count-bowl-subarrays/) | Medium |
 ## Tree
@@ -1181,4 +1186,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/akhilpalla/LeetCode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2296-design-a-text-editor](https://github.com/akhilpalla/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 <!---LeetCode Topics End-->
