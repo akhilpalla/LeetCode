@@ -472,6 +472,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akhilpalla/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/akhilpalla/LeetCode/tree/main/1485-clone-binary-tree-with-random-pointer/) | Medium |
 | [1490-clone-n-ary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1490-clone-n-ary-tree/) | Medium |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/akhilpalla/LeetCode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akhilpalla/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akhilpalla/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/akhilpalla/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -824,6 +825,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/akhilpalla/LeetCode/tree/main/1485-clone-binary-tree-with-random-pointer/) | Medium |
 | [1490-clone-n-ary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1490-clone-n-ary-tree/) | Medium |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/akhilpalla/LeetCode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/akhilpalla/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1858-longest-word-with-all-prefixes](https://github.com/akhilpalla/LeetCode/tree/main/1858-longest-word-with-all-prefixes/) | Medium |
@@ -942,6 +944,7 @@
 | [1376-time-needed-to-inform-all-employees](https://github.com/akhilpalla/LeetCode/tree/main/1376-time-needed-to-inform-all-employees/) | Medium |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/akhilpalla/LeetCode/tree/main/1485-clone-binary-tree-with-random-pointer/) | Medium |
 | [1490-clone-n-ary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1490-clone-n-ary-tree/) | Medium |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/akhilpalla/LeetCode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akhilpalla/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1586-binary-search-tree-iterator-ii](https://github.com/akhilpalla/LeetCode/tree/main/1586-binary-search-tree-iterator-ii/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akhilpalla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -965,6 +968,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhilpalla/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1485-clone-binary-tree-with-random-pointer](https://github.com/akhilpalla/LeetCode/tree/main/1485-clone-binary-tree-with-random-pointer/) | Medium |
 | [1490-clone-n-ary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1490-clone-n-ary-tree/) | Medium |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/akhilpalla/LeetCode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1730-shortest-path-to-get-food](https://github.com/akhilpalla/LeetCode/tree/main/1730-shortest-path-to-get-food/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akhilpalla/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -978,6 +982,7 @@
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/akhilpalla/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/akhilpalla/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/akhilpalla/LeetCode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/akhilpalla/LeetCode/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [2029-stone-game-ix](https://github.com/akhilpalla/LeetCode/tree/main/2029-stone-game-ix/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/akhilpalla/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
@@ -1172,4 +1177,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/akhilpalla/LeetCode/tree/main/1492-the-kth-factor-of-n/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/akhilpalla/LeetCode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 <!---LeetCode Topics End-->
