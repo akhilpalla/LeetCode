@@ -319,6 +319,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akhilpalla/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/akhilpalla/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/akhilpalla/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2296-design-a-text-editor](https://github.com/akhilpalla/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 | [2409-count-days-spent-together](https://github.com/akhilpalla/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/akhilpalla/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -372,6 +373,7 @@
 | [2069-walking-robot-simulation-ii](https://github.com/akhilpalla/LeetCode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/akhilpalla/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/akhilpalla/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/akhilpalla/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2296-design-a-text-editor](https://github.com/akhilpalla/LeetCode/tree/main/2296-design-a-text-editor/) | Hard |
 | [2553-separate-the-digits-in-an-array](https://github.com/akhilpalla/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/akhilpalla/LeetCode/tree/main/2751-robot-collisions/) | Hard |
