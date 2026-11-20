@@ -116,6 +116,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/akhilpalla/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akhilpalla/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/akhilpalla/LeetCode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/akhilpalla/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akhilpalla/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/akhilpalla/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/akhilpalla/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -418,6 +419,7 @@
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/akhilpalla/LeetCode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/akhilpalla/LeetCode/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/akhilpalla/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/akhilpalla/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/akhilpalla/LeetCode/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/akhilpalla/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3256-maximum-value-sum-by-placing-three-rooks-i](https://github.com/akhilpalla/LeetCode/tree/main/3256-maximum-value-sum-by-placing-three-rooks-i/) | Hard |
@@ -816,6 +818,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akhilpalla/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/akhilpalla/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/akhilpalla/LeetCode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/akhilpalla/LeetCode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akhilpalla/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/akhilpalla/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akhilpalla/LeetCode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
