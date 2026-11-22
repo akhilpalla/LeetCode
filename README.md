@@ -495,6 +495,7 @@
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/akhilpalla/LeetCode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akhilpalla/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akhilpalla/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1660-correct-a-binary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1660-correct-a-binary-tree/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/akhilpalla/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhilpalla/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/akhilpalla/LeetCode/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
@@ -855,6 +856,7 @@
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/akhilpalla/LeetCode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/akhilpalla/LeetCode/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
+| [1660-correct-a-binary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1660-correct-a-binary-tree/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/akhilpalla/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1858-longest-word-with-all-prefixes](https://github.com/akhilpalla/LeetCode/tree/main/1858-longest-word-with-all-prefixes/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akhilpalla/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
@@ -982,6 +984,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akhilpalla/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1586-binary-search-tree-iterator-ii](https://github.com/akhilpalla/LeetCode/tree/main/1586-binary-search-tree-iterator-ii/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/akhilpalla/LeetCode/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
+| [1660-correct-a-binary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1660-correct-a-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akhilpalla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akhilpalla/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2920-maximum-points-after-collecting-coins-from-all-nodes](https://github.com/akhilpalla/LeetCode/tree/main/2920-maximum-points-after-collecting-coins-from-all-nodes/) | Hard |
@@ -1006,6 +1009,7 @@
 | [1490-clone-n-ary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1490-clone-n-ary-tree/) | Medium |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/akhilpalla/LeetCode/tree/main/1519-number-of-nodes-in-the-sub-tree-with-the-same-label/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhilpalla/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1660-correct-a-binary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1660-correct-a-binary-tree/) | Medium |
 | [1730-shortest-path-to-get-food](https://github.com/akhilpalla/LeetCode/tree/main/1730-shortest-path-to-get-food/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/akhilpalla/LeetCode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/akhilpalla/LeetCode/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
@@ -1098,6 +1102,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akhilpalla/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1586-binary-search-tree-iterator-ii](https://github.com/akhilpalla/LeetCode/tree/main/1586-binary-search-tree-iterator-ii/) | Medium |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/akhilpalla/LeetCode/tree/main/1644-lowest-common-ancestor-of-a-binary-tree-ii/) | Medium |
+| [1660-correct-a-binary-tree](https://github.com/akhilpalla/LeetCode/tree/main/1660-correct-a-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akhilpalla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akhilpalla/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Indexed Tree
