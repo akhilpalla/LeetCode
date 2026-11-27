@@ -328,6 +328,7 @@
 | [1927-sum-game](https://github.com/akhilpalla/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akhilpalla/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/akhilpalla/LeetCode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/akhilpalla/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/akhilpalla/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/akhilpalla/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
@@ -509,6 +510,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhilpalla/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1830-minimum-number-of-operations-to-make-string-sorted](https://github.com/akhilpalla/LeetCode/tree/main/1830-minimum-number-of-operations-to-make-string-sorted/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/akhilpalla/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/akhilpalla/LeetCode/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akhilpalla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/akhilpalla/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/akhilpalla/LeetCode/tree/main/2615-sum-of-distances/) | Medium |
