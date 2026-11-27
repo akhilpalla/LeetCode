@@ -856,6 +856,7 @@
 | [0642-design-search-autocomplete-system](https://github.com/akhilpalla/LeetCode/tree/main/0642-design-search-autocomplete-system/) | Hard |
 | [0666-path-sum-iv](https://github.com/akhilpalla/LeetCode/tree/main/0666-path-sum-iv/) | Medium |
 | [1236-web-crawler](https://github.com/akhilpalla/LeetCode/tree/main/1236-web-crawler/) | Medium |
+| [1242-web-crawler-multithreaded](https://github.com/akhilpalla/LeetCode/tree/main/1242-web-crawler-multithreaded/) | Medium |
 | [1257-smallest-common-region](https://github.com/akhilpalla/LeetCode/tree/main/1257-smallest-common-region/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/akhilpalla/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/akhilpalla/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -1011,6 +1012,7 @@
 | [0582-kill-process](https://github.com/akhilpalla/LeetCode/tree/main/0582-kill-process/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/akhilpalla/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1236-web-crawler](https://github.com/akhilpalla/LeetCode/tree/main/1236-web-crawler/) | Medium |
+| [1242-web-crawler-multithreaded](https://github.com/akhilpalla/LeetCode/tree/main/1242-web-crawler-multithreaded/) | Medium |
 | [1257-smallest-common-region](https://github.com/akhilpalla/LeetCode/tree/main/1257-smallest-common-region/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/akhilpalla/LeetCode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1306-jump-game-iii](https://github.com/akhilpalla/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
@@ -1259,4 +1261,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3934-smallest-unique-subarray](https://github.com/akhilpalla/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Concurrency
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1242-web-crawler-multithreaded](https://github.com/akhilpalla/LeetCode/tree/main/1242-web-crawler-multithreaded/) | Medium |
 <!---LeetCode Topics End-->
